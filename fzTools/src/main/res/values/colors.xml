@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <!-- 白 -->
+    <color name="white">#FFFFFF</color>
+    <!-- 一般字体黑色 -->
+    <color name="black_normal_color">#323232</color>
+    <!-- 列表字体浅黑色 -->
+    <color name="black_list_color">#666666</color>
+    <!-- 字体灰色 -->
+
+    <color name="eaeaea">#eaeaea</color>
+
+    <color name="gray_color">#999999</color>
+    <color name="gray">#ebeded</color>
+    <color name="gray2">#eeeeee</color>
+    <color name="dividing_gray">#d1d1d1</color>
+    <color name="transparent">#00000000</color>
+    <color name="translucence">#1A000000</color>
+    <!--主色-->
+    <color name="mainColor">#E77E23</color>
+    <!--绿色-->
+    <color name="green">#68dbc4</color>
+    <!--蓝色-->
+    <color name="blue">#65CFFF</color>
+    <!--红色-->
+    <color name="red">#d80808</color>
+    <color name="front_color">#333333</color>
+    <color name="stoke_color">#999999</color>
+    <color name="wuliu_color">#dc2203</color>
+    <color name="chezhu_color">#13b303</color>
+    <color name="huozhu_color">#e77e23</color>
+    <color name="siji_color">#058be0</color>
+    <color name="theme">#E77E23</color>
+    <color name="cole5e5e5">#e5e5e5</color>
+    <drawable name="transparent_background">#00000000</drawable>
+    <color name="col999999">#999999</color>
+    <color name="colormian">#65CFFF</color>
+    <color name="black_font">#000000</color>
+    <color name="color_333333">#333333</color>
+
+</resources>
